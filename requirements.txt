@@ -1,0 +1,11 @@
+distlib==0.3.4
+eth-hash==0.3.2
+eth-typing==2.3.0
+Faker==13.3.5
+filelock==3.4.2
+names==0.3.0
+platformdirs==2.4.1
+python-dateutil==2.8.2
+six==1.16.0
+toolz==0.11.2
+virtualenv==20.13.0
